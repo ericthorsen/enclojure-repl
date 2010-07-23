@@ -1,0 +1,12 @@
+.DS\_Store
+._.DS_Store
+._pom.xml
+target
+target/*
+.svn
+__MACOSX
+*.class
+*.jar
+*.war
+build/*
+*.tmproj
